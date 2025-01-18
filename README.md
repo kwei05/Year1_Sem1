@@ -1,6 +1,6 @@
 # Year1_Sem1
 <header>
-This repository is about what I had done during my Year 1 Sem 1 and also my Eportfolio. Feel free to open those file and check out what I made on this semester!
+This repository is about what I had done during my Year 1 Semester 1 and my eportfolio. Feel free to open those file and check out what I made on this semester!
 </header>
 <hr>
 
