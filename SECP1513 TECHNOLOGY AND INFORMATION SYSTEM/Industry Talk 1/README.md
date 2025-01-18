@@ -16,7 +16,7 @@ From this talk, I have a clearer understanding of the skills and knowledge requi
 
 The session has motivated me to explore these fields further, with a focus on acquiring both technical and soft skills to prepare for a successful career. Whether it is software engineering, data engineering, or data science, I now have a better perspective on the opportunities and challenges that lie ahead.
 
-<a class="image"><img src="https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Industry%20Talk%201/industry%20talk%201.jpg" width="50%" height="50%"></a>
+<img src="https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Industry%20Talk%201/industry%20talk%201.jpg" width="50%" height="50%">
 
 ## Link to Poster
 [Click Here!](https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Industry%20Talk%201/Poster%20Petronas%20Digital.pdf)
