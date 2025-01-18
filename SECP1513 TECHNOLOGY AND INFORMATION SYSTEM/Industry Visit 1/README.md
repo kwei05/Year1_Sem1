@@ -2,6 +2,7 @@
 Visit to UTM Digital on 10th December 2024 (Tuesday) led by Dr. Haswadi bin Hasan.
 <br>
 Photo of Group Members:
+<br>
 <img src="https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Industry%20Talk%202/industry%20visit%201.jpg" width="50%" height="50%">
 
 ## Reflection
