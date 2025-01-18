@@ -39,6 +39,7 @@ We need to create a newsletter based on the industry visit on 14/01/2025
 
 ### E-portfolio
 We would need to build our profile and e-portfolio
+<br>
 [GitHub](https://github.com/kwei05) | [LinkedIn](https://www.linkedin.com/in/yeoh-keng-wei-9b09b8249/) | [Website](https://kwei05.github.io/)
 
 ## Reflection
