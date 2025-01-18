@@ -19,7 +19,7 @@ This course introduces students to the foundational concepts of information syst
 
 ## PC Assemble
 <img src="https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/PC%20Assemble%20(Lab)/Photo/Step%201.JPG" width="30%" height="30%">  <img src="https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/PC%20Assemble%20(Lab)/Photo/INNER.JPG" width="30%" height="30%">
-### Check out more!
+### [Check out more!](https://github.com/kwei05/Year1_Sem1/tree/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/PC%20Assemble%20(Lab))
 
 ## Assignments
 ### [Design Thinking Assignment](https://github.com/kwei05/Year1_Sem1/tree/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Design%20Thinking%20Project)
