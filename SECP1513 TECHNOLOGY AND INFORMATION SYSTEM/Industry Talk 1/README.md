@@ -1,3 +1,2 @@
-### Industry talk 1
-<hr>
+# Industry talk 1
 This industry talk is 
