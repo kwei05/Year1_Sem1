@@ -3,7 +3,7 @@ Visit to UTM Digital on 10th December 2024 (Tuesday) led by Dr. Haswadi bin Hasa
 <br>
 Photo of Group Members:
 <br>
-<img src="https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Industry%20Talk%202/industry%20visit%201.jpg" width="50%" height="50%">
+<img src="https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Industry%20Visit%201/industry%20visit%201.jpg" width="50%" height="50%">
 
 ## Reflection
 The visit to UTM Digital was truly insightful, providing a new perspective on the university’s technological backbone. It was fascinating to learn how UTM Digital manages essential services that keep the institution running smoothly. For instance, systems like centralized access credentials and upgraded networks showcase their focus on delivering seamless digital experiences to both staff and students.
