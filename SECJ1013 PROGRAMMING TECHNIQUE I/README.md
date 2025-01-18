@@ -1,10 +1,9 @@
 # SECJ1013 PROGRAMMING TECHNIQUE I
 In this course, we are going to learn C++ programming language and develop programs to solve simple or moderate problems.
 
-- [Course content](https://github.com/kwei05/Year1_Sem1/main/SECJ1013%20PROGRAMMING%20TECHNIQUE%20I/README.md#course-content)
-- [Assignments](https://github.com/kwei05/Year1_Sem1/main/SECJ1013%20PROGRAMMING%20TECHNIQUE%20I/README.md#Assignments)
-- [Reflection](https://github.com/kwei05/Year1_Sem1/main/SECJ1013%20PROGRAMMING%20TECHNIQUE%20I/README.md#Reflection)
-
+- [Course content](https://github.com/kwei05/Year1_Sem1/blob/main/SECJ1013%20PROGRAMMING%20TECHNIQUE%20I/README.md#course-content)
+- [Assignments and Labs](https://github.com/kwei05/Year1_Sem1/blob/main/SECJ1013%20PROGRAMMING%20TECHNIQUE%20I/README.md#Assignments-and-Labs)
+- [Reflection](https://github.com/kwei05/Year1_Sem1/blob/main/SECJ1013%20PROGRAMMING%20TECHNIQUE%20I/README.md#Reflection)
 ## Course content
 - Preprocessor directives
 - Constant and variables
