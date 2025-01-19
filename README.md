@@ -8,4 +8,3 @@ This repository is about what I had done during my Year 1 Semester 1 and my epor
 - <a href="https://github.com/kwei05/Year1_Sem1/tree/main/SECI1013%20DISCRETE%20STRUCTURE">Discrete Structure</a>
 - <a href="https://github.com/kwei05/Year1_Sem1/tree/main/SECJ1013%20PROGRAMMING%20TECHNIQUE%20I">Programming Technique 1</a>
 - <a href="https://github.com/kwei05/Year1_Sem1/tree/main/SECR1013%20DIGITAL%20LOGIC">Digital Logic</a>
-- <a href="https://github.com/kwei05/Year1_Sem1/tree/main/ULRS1032%20INTEGRITY%20AND%20ANTI-CORRUPTION%20COURSE">Intergrity and Anti-Corruption</a>
