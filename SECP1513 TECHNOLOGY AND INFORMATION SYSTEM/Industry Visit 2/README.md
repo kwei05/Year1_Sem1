@@ -1,5 +1,7 @@
 # Industry Visit 2
 The insights from the newsletter "Discover Agriculture" emphasized the critical role of technology in revolutionizing modern farming. The channel’s focus on educating and empowering farmers through innovative solutions highlights a transformative shift in agriculture toward sustainability and efficiency.
+<br>
+Link to newsletter: [Click Here!](https://github.com/kwei05/Year1_Sem1/blob/main/SECP1513%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEM/Industry%20Visit%202/tis%20assignment%204.pdf)
 
 ## Key Takeaways
 ### Precision Farming
